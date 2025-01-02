@@ -1,6 +1,5 @@
 THis is the sample text file where my main github account namra4122 will clone this repository and try to add and remove some text to practice the contribution on other creators repository.
 
 
- - namra4123 -> isko correct karo
- - Namra Maniyar -> isko bhi correct karo
- - asdflkjlj lkjsadlkjf lkj laksjdf -> remove this entire line
+ - namra4122 -> isko correct karo
+ - Namra Maniar -> isko bhi correct karo
